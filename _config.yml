@@ -26,7 +26,7 @@ author:
 twitter_username:
 github_username:
 logo: "/assets/images/site-logo.png"
-search: # true, false (default)
+search: true # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
@@ -46,8 +46,11 @@ plugins: # previsously gems
 feed:
   path: atom.xml
 
+# for Google Analytics
+google_analytics: UA-136619679-1
+
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 15
+paginate: 10
 paginate_path: /page:num/
 
 # Exclude from processing.
