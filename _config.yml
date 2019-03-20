@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: My Awesome Site
-email:
-description:
+lang: ko_KR
+title: Justin YoungGeun CHOI
+email: justin.yg.choi@gmail.com
+description: 생각 박물관
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://justinygchoi.github.io
 author:
-  name:
+  name: YoungGeun Choi
   twitter:
-  picture:
+  picture: /assets/images/cyg.png
 twitter_username:
 github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/site-logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
@@ -47,7 +47,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
+paginate: 15
 paginate_path: /page:num/
 
 # Exclude from processing.
@@ -83,4 +83,3 @@ defaults:
     values:
       layout: post
       read_time: true
-
