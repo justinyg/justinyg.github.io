@@ -8,7 +8,7 @@ layout: about
 
 [인하대학교 정보보호 연구실](https://seclab.inha.ac.kr)에서 석사를 마치고, 2008년에 전문 연구 요원으로서 [파수닷컴](https://fasoo.com)에서 개발자의 삶을 시작하게 된다. 2012년 [이니텍](https://initech.com)에서 모바일 보안 솔루션을 개발하다가 자기 주도적인 삶에 목이 말라 2014년 [토스랩, 잔디](https://www.jandi.com)를 공동 창업하고 CTO 를 맡는다.
 
-산만한 성격에 맞게 취미는 자주 바뀌었다. 그나마 어릴 때부터 꾸준히 하고 있는 취미는 독서고 최근에는 골프를 시작해서 또 다른 평생 취미로 삼아보고자 하고 있다.
+산만한 성격에 맞게 취미는 자주 바뀌었다. 그나마 어릴 때부터 꾸준히 하고 있는 취미는 독서고 최근에는 골프를 시작해서 또 다른 평생 취미로 계획하고 있다.
 
 # Main Achivements
 - [Forbes: Slack Can't Conquer Asia, But This South Korean Startup Might](https://www.forbes.com/sites/elaineramirez/2017/03/22/slack-cant-conquer-asia-but-this-south-korean-startup-might/#e07a78d2ad2b)
