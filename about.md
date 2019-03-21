@@ -2,6 +2,17 @@
 title: "About"
 alt_title: "최영근"
 layout: about
+
+actions:
+  - label: "Facebook"
+    icon: facebook
+    url: "https://www.facebook.com/choizak"
+  - label: "LinkedIn"
+    icon: linkedin
+    url: "https://www.linkedin.com/in/justinychoi"
+  - label: "Instagram"
+    icon: instagram
+    url: "https://www.instagram.com/just.in.yg"
 ---
 
 > "A ship is safe in harbor, but that's not what ships are for." - William G.T. Shedd
